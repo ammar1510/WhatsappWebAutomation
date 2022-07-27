@@ -1,0 +1,6 @@
+pyautoit
+helium
+selenium
+fastprogress
+numpy 
+pandas
