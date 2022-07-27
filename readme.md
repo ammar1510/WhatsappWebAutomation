@@ -32,6 +32,6 @@
 
 `python admin_rights.py`
 
-##to send message update message.xlsx files for sending multiple files. Note: input to the Name column is not necessary.
+## to send message update message.xlsx files for sending multiple files. Note: input to the Name column is not necessary.
 
 `python send_message_v3.py`
