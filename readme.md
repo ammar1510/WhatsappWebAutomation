@@ -2,7 +2,7 @@
 
 `python contact.py`
 
-##to create a new group update create_group with group names and participants in it separated by a ';'.
+## to create a new group update create_group with group names and participants in it separated by a ';'.
 
 `python create_group.py`
 
