@@ -1,6 +1,6 @@
 ## to collect all contacts run command
 
-`python contact.py`
+`python create_group.py`
 
 ## to create a new group update create_group with group names and participants in it separated by a ';'.
 
